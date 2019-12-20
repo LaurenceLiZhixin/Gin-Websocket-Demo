@@ -21,7 +21,6 @@
 
 不关闭服务器的情况下，在home.html里面将identity改为teacher，保存后在另一个浏览器窗口登录，即可以teacher身份登录，收到5s一次的通知。
 
-![1576841780582](C:\Users\38267\AppData\Roaming\Typora\typora-user-images\1576841780582.png)
 
 - 用户关闭浏览器后，后台将在一段时间内关闭通知对其通知服务。服务端后台关闭时，所有通知前端均关闭。
 
